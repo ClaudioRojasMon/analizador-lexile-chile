@@ -388,4 +388,4 @@ Si tienes preguntas, sugerencias o quieres reportar un problema:
 
 ⭐ Si este proyecto te es útil, ¡considera darle una estrella en GitHub!
 
-💙 Desarrollado con pasión por la educación y la lectura en Chile 🇨🇱
+💙 Desarrollado con pasión por la educación y la lectura desde el sur de Chile 🇨🇱
