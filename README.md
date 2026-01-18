@@ -1,3 +1,5 @@
+![Analitica](Logo.png)
+
 # 📚 Analizador de Nivel Lexile - Chile
 
 Sistema de análisis de complejidad lectora para textos en español, adaptado al contexto educativo chileno.
